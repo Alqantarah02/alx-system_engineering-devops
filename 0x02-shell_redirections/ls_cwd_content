@@ -1,0 +1,29 @@
+total 52
+drwxr-xr-x 2 root root 4096 Apr  4 17:12 .
+drwxr-xr-x 6 root root  104 Apr  4 14:49 ..
+-rwxr-xr-x 1 root root   32 Apr  4 16:17 0-hello_world
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 10-no_more_js
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 11-directories
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 13-unique
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 14-findthatword
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 15-countthatword
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 16-whatsnext
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 17-hidethisword
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 18-letteronly
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 19-AZ
+-rwxr-xr-x 1 root root   28 Apr  4 16:34 1-confused_smiley
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 20-hiago
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 21-reverse
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 22-users_and_homes
+-rwxr-xr-x 1 root root   28 Apr  4 16:41 2-hellofile
+-rwxr-xr-x 1 root root   39 Apr  4 16:44 3-twofiles
+-rwxr-xr-x 1 root root   33 Apr  4 16:46 4-lastlines
+-rwxr-xr-x 1 root root   29 Apr  4 16:48 5-firstlines
+-rwxr-xr-x 1 root root   40 Apr  4 16:50 6-third_line
+-rwxr-xr-x 1 root root   80 Apr  4 17:05 7-file
+-rwxr-xr-x 1 root root   36 Apr  4 17:12 8-cwd_state
+-rwxr-xr-x 1 root root    0 Apr  4 14:58 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Apr  4 17:06 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  892 Apr  4 16:54 iacta
+-rw-r--r-- 1 root root    0 Apr  4 17:12 ls_cwd_content
+-rw-r--r-- 1 root root   38 Apr  4 15:52 README.md
